@@ -1,3 +1,10 @@
+Original Capstone Project Collaborators:
+Joseph S.
+John O.
+Michael C.
+Benjamin A.
+Marcus N.
+
 # ATA-Capstone-Project
 
 Follow the instructions in the course for completing the group Capstone project.
