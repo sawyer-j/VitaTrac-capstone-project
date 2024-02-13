@@ -1,8 +1,8 @@
 Original Capstone Project Collaborators:
-Joseph S.
-John O.
-Michael C.
-Benjamin A.
+Joseph S., 
+John O., 
+Michael C., 
+Benjamin A., 
 Marcus N.
 
 # ATA-Capstone-Project
